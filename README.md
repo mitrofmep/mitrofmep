@@ -1,8 +1,9 @@
 <h1 align="center">Hi there, I'm Valentin
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">24 y.o, Software Developer</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mitrofmep&label=Profile%20Views%20(%20Visitors%20)&color=0e75b6&style=flat-square" alt="mitrofmep" /> </p>[![trophy](https://github-profile-trophy.vercel.app/?username=mitrofmep)](https://github.com/mitrofmep/github-profile-trophy)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mitrofmep&label=Profile%20Views%20(%20Visitors%20)&color=0e75b6&style=flat-square" alt="mitrofmep" /> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=mitrofmep)](https://github.com/mitrofmep/github-profile-trophy)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mitrofmep)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitrofmep)](https://github.com/mitrofmep/github-readme-stats)
 [![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=mitrofmep&theme=dark)](https://github.com/mitrofmep/leetcode-stats)
