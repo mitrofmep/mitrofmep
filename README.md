@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">24 y.o, Software Developer</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=TechnicalAmanjeet&label=Profile%20Views%20(%20Visitors%20)&color=0e75b6&style=flat-square" alt="TechnicalAmanjeet" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mitrofmep&label=Profile%20Views%20(%20Visitors%20)&color=0e75b6&style=flat-square" alt="mitrofmep" /> </p>
 
 
 ![](https://komarev.com/ghpvc/?username=your-github-mitrofmep)
