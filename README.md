@@ -11,6 +11,7 @@
 
 [![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=mitrofmep)](https://github.com/mitrofmep/leetcode-stats)
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mitrofmep&theme=github)
 
 
 
