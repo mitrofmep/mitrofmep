@@ -2,7 +2,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">24 y.o, Software Developer</h3>
 
-<p align="center">![](https://komarev.com/ghpvc/?username=your-github-mitrofmep)</p>
+![](https://komarev.com/ghpvc/?username=your-github-mitrofmep)
+<br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=mitrofmep)](https://github.com/mitrofmep/github-profile-trophy)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mitrofmep)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitrofmep)](https://github.com/mitrofmep/github-readme-stats)
