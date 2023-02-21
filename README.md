@@ -4,9 +4,8 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-mitrofmep)
 <br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=mitrofmep)](https://github.com/mitrofmep/github-profile-trophy)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mitrofmep)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitrofmep)](https://github.com/mitrofmep/github-readme-stats)
+<br>
 [![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=mitrofmep&theme=dark)](https://github.com/mitrofmep/leetcode-stats)
 [![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=19602797&theme=dark)](https://stackoverflow.com/users/19602797/valentin-mitrofanov)  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mitrofmep&theme=solarized_dark)
