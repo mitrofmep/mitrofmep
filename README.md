@@ -1,5 +1,4 @@
-<h1 align="center">Hi there, I'm Valentin
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Hi there, I'm Valentin</h1>
 <h3 align="center">24 y.o, Software Developer</h3>
 <h3 align="center">School <img align="center" src="https://simpleicons.org/icons/42.svg" height="42"/> Student</h3>
 
